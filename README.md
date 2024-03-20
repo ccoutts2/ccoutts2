@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A developer with a keen eye on creative design</h3>
+<h3 align="center">A developer with a strong interest in creative development</h3>
 
-- 🔭 I’m currently working on [Triangulate](https://github.com/ccoutts2/triangulate-project)
+- 🔭 I’m currently working on a freelance project for [Effortless Interior Design](https://github.com/ccoutts2/effortless-interior-design)
 
-- 🌱 I’m currently learning **JS, React.js, Next.js, Node.js, Express.js, Knex.js and MySQL**
+- 🌱 I’m currently learning **React.js, Next.js, TypeScript, Framer Motion and GSAP**
 
-- 💬 Ask me about **Triangulate!**
+- 💬 Ask me about **Any Projects You Need Support With!**
 
 - 📫 How to reach me **chris.dcoutts@gmail.com**
 
