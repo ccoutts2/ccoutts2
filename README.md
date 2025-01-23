@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on a freelance project for [Effortless Interior Design](https://github.com/ccoutts2/effortless-interior-design)
 
-- 🔭 I’m currently working on a freelance project for [EWM Bespoke Interiors](https://github.com/ccoutts2/ewm-bespoke-interiors)
+- 🔭 I’m recently completed a freelance project for [EWM Bespoke Interiors](https://github.com/ccoutts2/ewm-bespoke-interiors)
 
-- 🌱 I’m currently learning **React.js, Next.js, TypeScript, Framer Motion and GSAP**
+- 🌱 I’m currently learning and further developing **React.js, Next.js, TypeScript, SvelteKit, PHP/Laravel, Framer Motion and GSAP**
 
 - 💬 Ask me about **Any Projects You Need Support With!**
 
