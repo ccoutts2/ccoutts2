@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A developer with a strong interest in creative development</h3>
 
-- 🔭 I’m currently a Junior Developer at Sunderland Software City
+- 🔭 I’m currently a Front End Web Developer at MMGY Global
 
-- 🔭 I’m currently working on a freelance project for [Effortless Interior Design](https://github.com/ccoutts2/effortless-interior-design)
+- 🔭 I’m currently working on freelance projects for [Effortless Interior Design](https://github.com/ccoutts2/effortless-interior-design) and a [Wedding Website](https://github.com/ccoutts2/wedding-website)
 
-- 🔭 I’m recently completed a freelance project for [EWM Bespoke Interiors](https://github.com/ccoutts2/ewm-bespoke-interiors)
+- 🔭 I recently completed a freelance project for [EWM Bespoke Interiors](https://github.com/ccoutts2/ewm-bespoke-interiors)
 
 - 🌱 I’m currently learning and further developing **React.js, Next.js, TypeScript, SvelteKit, PHP/Laravel, Framer Motion and GSAP**
 
