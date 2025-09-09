@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently a Front End Web Developer at MMGY Global
 
-- 🔭 I’m currently working on freelance projects for [Effortless Interior Design](https://github.com/ccoutts2/effortless-interior-design) and a [Wedding Website](https://github.com/ccoutts2/wedding-website)
+- 🔭 I’m currently working on freelance projects for [Effortless Interior Design](https://github.com/ccoutts2/effortless-interior-design) and a [Chalet Website](https://github.com/ccoutts2/chalet-ceilidh)
 
-- 🔭 I recently completed a freelance project for [EWM Bespoke Interiors](https://github.com/ccoutts2/ewm-bespoke-interiors)
+- 🔭 I recently completed a freelance project for [EWM Bespoke Interiors](https://github.com/ccoutts2/ewm-bespoke-interiors) and a [Wedding Website](https://github.com/ccoutts2/wedding-website)
 
 - 🌱 I’m currently learning and further developing **React.js, Next.js, TypeScript, SvelteKit, PHP/Laravel, Framer Motion and GSAP**
 
