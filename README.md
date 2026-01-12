@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently a Front End Web Developer at MMGY Global
 
-- 🔭 I’m currently working on freelance projects for [Effortless Interior Design](https://github.com/ccoutts2/effortless-interior-design) and a [Chalet Website](https://github.com/ccoutts2/chalet-ceilidh)
+- 🔭 I’m currently working on side projects for [Effortless Interior Design](https://github.com/ccoutts2/effortless-interior-design) and a [Chalet Website](https://github.com/ccoutts2/chalet-ceilidh)
 
-- 🔭 I recently completed a freelance project for [EWM Bespoke Interiors](https://github.com/ccoutts2/ewm-bespoke-interiors) and a [Wedding Website](https://github.com/ccoutts2/wedding-website)
+- 🔭 Checkout a freelance project for [EWM Bespoke Interiors](https://github.com/ccoutts2/ewm-bespoke-interiors) and a [Wedding Website](https://github.com/ccoutts2/wedding-website) (placeholder text and images used for this, due to wanting to hide details of the couple.)
 
-- 🌱 I’m currently learning and further developing **React.js, Next.js, TypeScript, SvelteKit, PHP/Laravel, Framer Motion and GSAP**
+- 🌱 I’m currently learning and further developing **React.js, Next.js, TypeScript, SvelteKit, PHP/Laravel, FastAPI, and GSAP**
 
-- 💬 Ask me about **Any Projects You Need Support With!**
+- 💬 Ask me about **anything!**
 
 - 📫 How to reach me **chris.dcoutts@gmail.com**
 
