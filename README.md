@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a Front End Web Developer at MMGY Global
 
-- 🔭 I’m currently working on side projects for [Effortless Interior Design](https://github.com/ccoutts2/effortless-interior-design) and a [Chalet Website](https://github.com/ccoutts2/chalet-ceilidh)
+- 🔭 I’m currently working on projects for [Effortless Interior Design](https://github.com/ccoutts2/effortless-interior-design-v2) and a [Chalet Website](https://github.com/ccoutts2/chalet-ceilidh)
 
 - 🔭 Checkout a freelance project for [EWM Bespoke Interiors](https://github.com/ccoutts2/ewm-bespoke-interiors) and a [Wedding Website](https://github.com/ccoutts2/wedding-website) (placeholder text and images used for this, due to wanting to hide details of the couple.)
 
